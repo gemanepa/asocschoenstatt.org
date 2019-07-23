@@ -1,5 +1,5 @@
-# https://asocschoenstatt.org
-Compiled code of the react responsive website https://asocschoenstatt.org
+# http://schoenstatt-ctes.web.app
+Compiled code of the react responsive website http://schoenstatt-ctes.web.app
 
 Made with:
 
